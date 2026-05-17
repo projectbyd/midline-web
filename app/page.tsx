@@ -1,3 +1,4 @@
+```tsx id="3q3l9t"
 export default function Home() {
   return (
     <main
